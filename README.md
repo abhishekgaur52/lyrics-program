@@ -16,7 +16,6 @@ A Python-based Lyrics Sync Player that allows users to search for a song, fetch 
 
 ## 📸 Demo
 
-```text
 Enter song name: Shape of You
 
 Song: Shape of You
@@ -25,6 +24,7 @@ Artist: Ed Sheeran
 The club isn't the best place
 to find a lover so the bar
 is where I go...
+
 
 ## 🛠️ Tech Stack
 Python
